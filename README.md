@@ -1,5 +1,5 @@
 # tmaze_door 
-Hardware design file for servo controlled t-maze door. 
+Hardware design files for servo controlled t-maze door. 
 
 # License: 
 Creative Commons Attribution 4.0 International CC BY 4.0
