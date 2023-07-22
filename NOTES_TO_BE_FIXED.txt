@@ -1,0 +1,1 @@
+For test assemblies parts fix DistanceRightBracketEdgeToDoo should be 23.1001mm
